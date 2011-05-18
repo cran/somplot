@@ -13,8 +13,8 @@ hexagonal self-organising maps (SOMs), which have been created with Teuvo Kohone
 \tabular{ll}{
 Package: \tab somplot\cr
 Type: \tab Package\cr
-Version: \tab 1.2\cr
-Date: \tab 2011-04-11\cr
+Version: \tab 1.05\cr
+Date: \tab 2011-06-30\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 }

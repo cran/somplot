@@ -1,7 +1,7 @@
 Package: somplot
 Type: Package
 Title: Visualisation of hexagonal Kohonen maps
-Version: 1.04
+Version: 1.05
 Date: 2011-05-18
 Author: Benjamin Schulz, Andreas Dominik
 Maintainer: Andreas Dominik <andreas.domink@mni.th-mittelhessen.de>
@@ -11,6 +11,6 @@ Description: The package provides the plot function som.plot() to
         (self-organising maps).
 License: GPL-2
 LazyLoad: yes
-Packaged: 2011-05-19 08:02:31 UTC; andreas
+Packaged: 2012-10-29 08:59:47 UTC; ripley
 Repository: CRAN
-Date/Publication: 2011-05-19 13:55:01
+Date/Publication: 2012-10-29 08:59:47

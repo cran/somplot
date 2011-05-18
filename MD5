@@ -1,0 +1,10 @@
+c82dd0385fefe5135b03e3864a54510a *DESCRIPTION
+fa22e16ebbe6638b2bd253338fbded9f *LICENSE/LICENSE
+27f2730ad29d5d049cb26418e07027a0 *NAMESPACE
+86b53aad70b59223cccfaf9f1be3494d *R/somplot.R
+e9727c8987cbe30a7bd58f15c2fb033b *inst/test.data/iris4som.dat
+79556dbfdbfae5f8ec52ff44cb93a930 *inst/test.data/iris4som.out
+a448898bd43c857a2725d16d687dde35 *man/hexbinpie.Rd
+bd47a2369520755f7457ab6411fa9ad3 *man/makehexbinplot.Rd
+775af9e24047e61cc2d5863f9f48d4e5 *man/som.plot.Rd
+90a002011b452c71a96407cba8fca298 *man/somplot-package.Rd

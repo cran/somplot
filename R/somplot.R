@@ -148,7 +148,7 @@ makehexbinplot <-function(data, col = NA, show.legend = TRUE, legend.width = 4, 
 		}
 		else
 		{
-			tmp.pal[c(1:length(col))] = "red" #col0.5
+			tmp.pal[c(1:length(col))] = col
 		}
 
 		# convert color names into hex values and fill up colors
