@@ -101,7 +101,7 @@ The function does not returns a value.
 \references{
 Schulz, B., Mauthe, T., Dominik, A., 2010.
 Visualisation of Kohonen Maps using R.
-University of Applied Sciences Giessen,
+THM University of Applied Sciences, Giessen, Germany
 Website, [Online].
 Available at: \url{http://www.life-science-it.org/pages/research/projectSomplot.html}
 [Accessed 19 May 2011].

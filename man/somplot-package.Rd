@@ -13,8 +13,8 @@ hexagonal self-organising maps (SOMs), which have been created with Teuvo Kohone
 \tabular{ll}{
 Package: \tab somplot\cr
 Type: \tab Package\cr
-Version: \tab 1.05\cr
-Date: \tab 2011-06-30\cr
+Version: \tab 1.6.1\cr
+Date: \tab 2013-01-30\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 }
@@ -37,7 +37,7 @@ Maintainer: <andreas.dominik@mni.fh-giessen.de>
 \references{
 Schulz, B., Mauthe, T., Dominik, A., 2010.
 Visualisation of Kohonen Maps using R.
-University of Applied Sciences Giessen,
+THM University of Applied Sciences, Giessen, Germany
 Website, [Online].
 Available at: \url{http://www.life-science-it.org/pages/research/projectSomplot.html}
 [Accessed 19 May 2011].

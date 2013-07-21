@@ -33,7 +33,7 @@ som.plot <- function(visfile, datfile, ...)
 
 hexbinpie <- function(x, y, kat, xbnds=range(x), ybnds=range(y), hbc = NA, pal = NA, hex = "gray", circ = "gray50", cnt = "black", show.counter.border, ...)
 {       
-	hb  <- hexbin(shape = (diff(ybnds) + 1) / (diff(xbnds) + 1),  x, y, xbnds = xbnds, ybnds = ybnds, IDs = TRUE, xbin = diff(xbnds)*2)
+	hb  <- hexbin(shape = (diff(ybnds) + 1) / (diff(xbnds) + 1),  x, y, xbnds = xbnds, ybnds = ybnds, IDs = TRUE, xbins = diff(xbnds)*2)
 	rx <- 0.5 -> ry
 	hexC <- hexcoords(dx = rx, dy = ry / sqrt(3), n = 1)			
 	nl <- length(levels(as.factor(kat)))					
